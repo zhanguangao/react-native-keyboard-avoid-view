@@ -1,0 +1,39 @@
+{
+  "name": "react-native-keyboard-avoid-view",
+  "version": "1.0.0",
+  "description": "A React Native ScrollView component that resizes when the keyboard appears.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "./node_modules/typescript/bin/tsc"
+  },
+  "author": {
+    "name": "zhanguangao",
+    "email": "190525238@qq.com"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "scrollview",
+    "keyboard",
+    "avoid",
+    "avoiding",
+    "ios",
+    "android"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanguangao/react-native-keyboard-avoid-view.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhanguangao/react-native-keyboard-avoid-view/issues"
+  },
+  "homepage": "https://github.com/zhanguangao/react-native-keyboard-avoid-view#readme",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react-native": "^0.63.46",
+    "react": "^17.0.1",
+    "react-native": "^0.63.4",
+    "typescript": "^4.1.3"
+  }
+}
