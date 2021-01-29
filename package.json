@@ -2,8 +2,8 @@
   "name": "react-native-keyboard-avoid-view",
   "version": "1.0.0",
   "description": "A React Native ScrollView component that resizes when the keyboard appears.",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "./lib/KeyboardAvoidView.js",
+  "types": "./lib/KeyboardAvoidView.d.ts",
   "scripts": {
     "build": "./node_modules/typescript/bin/tsc"
   },
